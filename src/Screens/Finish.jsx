@@ -2,8 +2,8 @@ import React from 'react';
 import { useNavigate } from 'react-router-dom';
 import {connect} from 'react-redux';
 import img from '../assets/QR1.jpg';
-import leftLogo from '../assets/IMG_6455.png';
-import rightLogo from '../assets/cbic.png';
+import leftLogo from '../assets/aai-white.png';
+import rightLogo from '../assets/G20.png';
 
 const Finish = (props) =>{
     const { score:{score}} = props;
