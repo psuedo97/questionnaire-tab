@@ -1,882 +1,370 @@
 [
     {
-        "aID" : "1a",
-        "value" : "Good and Simple Tax"
+        "aID": "1a",
+        "value": "Federal Avionics Administration"
     },
     {
-        "aID" : "1b",
-        "value" : "Goods and Small Tax"
+        "aID": "1b",
+        "value": "Federal Aviation Administration"
     },
     {
-        "aID" : "1c",
-        "value" : "Goods and Services Tax"
+        "aID": "1c",
+        "value": "FedEx Aircraft Administration"
     },
     {
-        "aID" : "1d",
-        "value" : "Goods and Secure Tax"
+        "aID": "1d",
+        "value": "Federation of Aviation Authority"
     },
     {
-        "aID" : "2a",
-        "value" : "01/07/2017"
+        "aID": "2a",
+        "value": "Feet"
     },
     {
-        "aID" : "2b",
-        "value" : "01/07/2018"
+        "aID": "2b",
+        "value": "Meters"
     },
     {
-        "aID" : "2c",
-        "value" : "01/07/2019"
+        "aID": "2c",
+        "value": "Kilometers"
     },
     {
-        "aID" : "2d",
-        "value" : "01/07/2020"
+        "aID": "2d",
+        "value": "Centimeter"
     },
     {
-        "aID" : "3a",
-        "value" : "Sale of Goods"
+        "aID": "3a",
+        "value": "International Civil Aviation Organization"
     },
     {
-        "aID" : "3b",
-        "value" : "Sale of Services"
+        "aID": "3b",
+        "value": "Intense Civil Aviation Operations"
     },
     {
-        "aID" : "3c",
-        "value" : "Supply of Goods or Services or both"
+        "aID": "3c",
+        "value": "Interstate Civil Aviation Organization"
     },
     {
-        "aID" : "3d",
-        "value" : "Manufacturing of Goods"
+        "aID": "3d",
+        "value": "Indian Civil Aviation Organization"
     },
     {
-        "aID" : "4a",
-        "value" : "Jewellery"
+        "aID": "4a",
+        "value": "altimeter"
     },
     {
-        "aID" : "4b",
-        "value" : "Stationery items"
+        "aID": "4b",
+        "value": "ammeter"
     },
     {
-        "aID" : "4c",
-        "value" : "Alcoholic Liquor for human consumption"
+        "aID": "4c",
+        "value": "audiometer"
     },
     {
-        "aID" : "4d",
-        "value" : "Books"
+        "aID": "4d",
+        "value": "galvanometer"
     },
     {
-        "aID" : "5a",
-        "value" : "Constitution (101st Amendment) Act, 2016"
+        "aID": "5a",
+        "value": "Bhopal"
     },
     {
-        "aID" : "5b",
-        "value" : "Constitution (102nd Amendment) Act, 2016"
+        "aID": "5b",
+        "value": "Coimbatore"
     },
     {
-        "aID" : "5c",
-        "value" : "Constitution (103rd Amendment) Act, 2016"
+        "aID": "5c",
+        "value": "Kolkata"
     },
     {
-        "aID" : "5d",
-        "value" : "Constitution (104th Amendment) Act, 2016"
+        "aID": "5d",
+        "value": "Nagpur"
     },
     {
-        "aID" : "6a",
-        "value" : "GST is a destination based tax"
+        "aID": "6a",
+        "value": "Imphal"
     },
     {
-        "aID" : "6b",
-        "value" : "GST is a consumption based tax"
+        "aID": "6b",
+        "value": "New Delhi"
     },
     {
-        "aID" : "6c",
-        "value" : "GST is an origin-based tax"
+        "aID": "6c",
+        "value": "Mumbai"
     },
     {
-        "aID" : "6d",
-        "value" : "Both a) and b)"
+        "aID": "6d",
+        "value": "Hyderabad"
     },
     {
-        "aID" : "7a",
-        "value" : "Prime Minister"
+        "aID": "7a",
+        "value": "New Delhi"
     },
     {
-        "aID" : "7b",
-        "value" : "Union Finance Minister"
+        "aID": "7b",
+        "value": "Bengaluru"
     },
     {
-        "aID" : "7c",
-        "value" : "Any State Finance Minister"
+        "aID": "7c",
+        "value": "Hyderabad"
     },
     {
-        "aID" : "7d",
-        "value" : "GST Council"
+        "aID": "7d",
+        "value": "Mumbai"
     },
     {
-        "aID" : "8a",
-        "value" : "Petroleum"
+        "aID": "8a",
+        "value": "Nation"
     },
     {
-        "aID" : "8b",
-        "value" : "Aviation Turbine Fuel"
+        "aID": "8b",
+        "value": "Navigation"
     },
     {
-        "aID" : "8c",
-        "value" : "High Speed Diesel"
+        "aID": "8c",
+        "value": "Northern"
     },
     {
-        "aID" : "8d",
-        "value" : "Liquified Petroleum Gas (LPG)"
+        "aID": "8d",
+        "value": "Navigational"
     },
     {
-        "aID" : "9a",
-        "value" : "Inter-State supplies "
+        "aID": "9a",
+        "value": "NASA"
     },
     {
-        "aID" : "9b",
-        "value" : "Intra-State supplies"
+        "aID": "9b",
+        "value": "UKSA"
     },
     {
-        "aID" : "9c",
-        "value" : "Both of the above"
+        "aID": "9c",
+        "value": "CNSA"
     },
     {
-        "aID" : "9d",
-        "value" : "None of the above"
+        "aID": "9d",
+        "value": "ISRO"
     },
     {
-        "aID" : "10a",
-        "value" : "In case of further supply of works contract service "
+        "aID": "10a",
+        "value": "Indigo"
     },
     {
-        "aID" : "10b",
-        "value" : "When the service is related to movable property"
+        "aID": "10b",
+        "value": "Infra"
     },
     {
-        "aID" : "10c",
-        "value" : "When the service is related to immovable property"
+        "aID": "10c",
+        "value": "India"
     },
     {
-        "aID" : "10d",
-        "value" : "All of the above"
+        "aID": "10d",
+        "value": "Indo"
     },
     {
-        "aID" : "11a",
-        "value" : "Any common man"
+        "aID": "11a",
+        "value": "Airport Civil India"
     },
     {
-        "aID" : "11b",
-        "value" : "Its own student, faculty/ staff"
+        "aID": "11b",
+        "value": "Airport Council India"
     },
     {
-        "aID" : "11c",
-        "value" : "Both (a) & (b)"
+        "aID": "11c",
+        "value": "Airport Council International"
     },
     {
-        "aID" : "11d",
-        "value" : "None of the above"
+        "aID": "11d",
+        "value": "Asia Council International"
     },
     {
-        "aID" : "12a",
-        "value" : "2,50,000 inclusive of tax"
+        "aID": "12a",
+        "value": "Dial"
     },
     {
-        "aID" : "12b",
-        "value" : "2,50,000 excluding tax"
+        "aID": "12b",
+        "value": "Delta"
     },
     {
-        "aID" : "12c",
-        "value" : "1,00,000 inclusive of tax"
+        "aID": "12c",
+        "value": "Dry"
     },
     {
-        "aID" : "12d",
-        "value" : "1,00,000 inclusive of tax"
+        "aID": "12d",
+        "value": "Depth"
     },
     {
-        "aID" : "13a",
-        "value" : "Humanised System of Nomenclature"
+        "aID": "13a",
+        "value": "RESA"
     },
     {
-        "aID" : "13b",
-        "value" : "Harmonised System of Numbers"
+        "aID": "13b",
+        "value": "Apron"
     },
     {
-        "aID" : "13c",
-        "value" : "Humanised System of Numbers"
+        "aID": "13c",
+        "value": "Runway"
     },
     {
-        "aID" : "13d",
-        "value" : "Harmonised System of Nomenclature"
+        "aID": "13d",
+        "value": "Anchor"
     },
     {
-        "aID" : "14a",
-        "value" : "gst.gov.in"
+        "aID": "14a",
+        "value": "1911"
     },
     {
-        "aID" : "14b",
-        "value" : "cbic.gov.in"
+        "aID": "14b",
+        "value": "1912"
     },
     {
-        "aID" : "14c",
-        "value" : "taxinformation.cbic.gov.in"
+        "aID": "14c",
+        "value": "1913"
     },
     {
-        "aID" : "14d",
-        "value" : "gstcouncil.gov.in"
+        "aID": "14d",
+        "value": "1914"
     },
     {
-        "aID" : "15a",
-        "value" : "CGST"
+        "aID": "15a",
+        "value": "All Time Flying"
     },
     {
-        "aID" : "15b",
-        "value" : "SGST"
+        "aID": "15b",
+        "value": "Aviation Turbine Fuel"
     },
     {
-        "aID" : "15c",
-        "value" : "IGST"
+        "aID": "15c",
+        "value": "Air Traffic Fuel"
     },
     {
-        "aID" : "15d",
-        "value" : "Both (a) & (b)"
+        "aID": "15d",
+        "value": "Aviation Temperature Fuel"
     },
     {
-        "aID" : "16a",
-        "value" : "Six months"
+        "aID": "16a",
+        "value": "Black"
     },
     {
-        "aID" : "16b",
-        "value" : "One Year"
+        "aID": "16b",
+        "value": "Red"
     },
     {
-        "aID" : "16c",
-        "value" : "Three Years"
+        "aID": "16c",
+        "value": "Blue"
     },
     {
-        "aID" : "16d",
-        "value" : "Five Years"
+        "aID": "16d",
+        "value": "Orange"
     },
     {
-        "aID" : "17a",
-        "value" : "Taxable Supplies"
+        "aID": "17a",
+        "value": "Bhopal Airport"
     },
     {
-        "aID" : "17b",
-        "value" : "Exempt Supplies"
+        "aID": "17b",
+        "value": "Raipur Airport"
     },
     {
-        "aID" : "17c",
-        "value" : "Both of the above"
+        "aID": "17c",
+        "value": "Ahmedabad Airport"
     },
     {
-        "aID" : "17d",
-        "value" : "Only (a)"
+        "aID": "17d",
+        "value": "Indore Airport"
     },
     {
-        "aID" : "18a",
-        "value" : "Inter-State supplies"
+        "aID": "18a",
+        "value": "Earth"
     },
     {
-        "aID" : "18b",
-        "value" : "Intra-State supplies"
+        "aID": "18b",
+        "value": "Venus"
     },
     {
-        "aID" : "18c",
-        "value" : "Any of the above"
+        "aID": "18c",
+        "value": "Jupiter"
     },
     {
-        "aID" : "18d",
-        "value" : "None of the above"
+        "aID": "18d",
+        "value": "Mars"
     },
     {
-        "aID" : "19a",
-        "value" : "At the time of Supply of Goods"
+        "aID": "19a",
+        "value": "True"
     },
     {
-        "aID" : "19b",
-        "value" : "On receipt of payment"
+        "aID": "19b",
+        "value": "False"
     },
     {
-        "aID" : "19c",
-        "value" : "On raising of invoice"
+        "aID": "19c",
+        "value": ""
     },
     {
-        "aID" : "19d",
-        "value" : "Earliest of b and c"
+        "aID": "19d",
+        "value": ""
     },
     {
-        "aID" : "20a",
-        "value" : "GST Invoice Number"
+        "aID": "20a",
+        "value": "Apron"
     },
     {
-        "aID" : "20b",
-        "value" : "GST Initiation Number"
+        "aID": "20b",
+        "value": "Runway"
     },
     {
-        "aID" : "20c",
-        "value" : "GST Identification Number"
+        "aID": "20c",
+        "value": "Ramp"
     },
     {
-        "aID" : "20d",
-        "value" : "None of the above"
+        "aID": "20d",
+        "value": "General Aviation Terminal"
     },
     {
-        "aID" : "21a",
-        "value" : "10"
+        "aID": "21a",
+        "value": "Australia"
     },
     {
-        "aID" : "21b",
-        "value" : "12"
+        "aID": "21b",
+        "value": "Greece"
     },
     {
-        "aID" : "21c",
-        "value" : "15"
+        "aID": "21c",
+        "value": "India"
     },
     {
-        "aID" : "21d",
-        "value" : "16"
+        "aID": "21d",
+        "value": "Germany"
     },
     {
-        "aID" : "22a",
-        "value" : "Tax Invoice"
+        "aID": "22a",
+        "value": "Notice to Airline Service"
     },
     {
-        "aID" : "22b",
-        "value" : "Credit Note"
+        "aID": "22b",
+        "value": "Notice to Airport"
     },
     {
-        "aID" : "22c",
-        "value" : "Bill of Supply"
+        "aID": "22c",
+        "value": "Notice to Airmen"
     },
     {
-        "aID" : "22d",
-        "value" : "Debit Note"
+        "aID": "22d",
+        "value": "Notice to Aircraft"
     },
     {
-        "aID" : "23a",
-        "value" : "18%, Inter-State"
+        "aID": "23a",
+        "value": "AGRA Airport"
     },
     {
-        "aID" : "23b",
-        "value" : "18%, Intra-State"
+        "aID": "23b",
+        "value": "Varanasi Airport"
     },
     {
-        "aID" : "23c",
-        "value" : "28%, Inter-State"
+        "aID": "23c",
+        "value": "Gorakhpur Airport"
     },
     {
-        "aID" : "23d",
-        "value" : "28%, Intra-State"
-    },
-    {
-        "aID" : "24a",
-        "value" : "Where there is movement of goods of consignment value exceeding Rs. 15000/-"
-    },
-    {
-        "aID" : "24b",
-        "value" : "Where there is movement of goods of consignment value exceeding Rs. 20000/-"
-    },
-    {
-        "aID" : "24c",
-        "value" : "Where there is movement of goods of consignment value exceeding Rs. 50000/-"
-    },
-    {
-        "aID" : "24d",
-        "value" : "E-way bill is required to be generated in case of every movement of goods"
-    },
-    {
-        "aID" : "25a",
-        "value" : "240 days from the date of issue of invoice"
-    },
-    {
-        "aID" : "25b",
-        "value" : "182 days from the date of issue of invoice"
-    },
-    {
-        "aID" : "25c",
-        "value" : "180 days from the date of issue of invoice"
-    },
-    {
-        "aID" : "25d",
-        "value" : "Up to the end of next financial year"
-    },
-    {
-        "aID" : "26a",
-        "value" : "GSTR-1"
-    },
-    {
-        "aID" : "26b",
-        "value" : "GSTR-2A"
-    },
-    {
-        "aID" : "26c",
-        "value" : "GSTR-2B"
-    },
-    {
-        "aID" : "26d",
-        "value" : "GSTR-3B"
-    },
-    {
-        "aID" : "27a",
-        "value" : "GSTR-3B"
-    },
-    {
-        "aID" : "27b",
-        "value" : "GSTR-4"
-    },
-    {
-        "aID" : "27c",
-        "value" : "GSTR-5"
-    },
-    {
-        "aID" : "27d",
-        "value" : "GSTR-6"
-    },
-    {
-        "aID" : "28a",
-        "value" : "E-Cash Ledger"
-    },
-    {
-        "aID" : "28b",
-        "value" : "E- Credit Ledger"
-    },
-    {
-        "aID" : "28c",
-        "value" : "E- Liability Register"
-    },
-    {
-        "aID" : "28d",
-        "value" : "Any of the above"
-    },
-    {
-        "aID" : "29a",
-        "value" : "E-Cash Ledger"
-    },
-    {
-        "aID" : "29b",
-        "value" : "E- Credit Ledger"
-    },
-    {
-        "aID" : "29c",
-        "value" : "E- Liability Register"
-    },
-    {
-        "aID" : "29d",
-        "value" : "Any of the above"
-    },
-    {
-        "aID" : "30a",
-        "value" : "6%"
-    },
-    {
-        "aID" : "30b",
-        "value" : "10%"
-    },
-    {
-        "aID" : "30c",
-        "value" : "18%"
-    },
-    {
-        "aID" : "30d",
-        "value" : "24%"
-    },
-    {
-        "aID" : "31a",
-        "value" : "E-Cash Ledger"
-    },
-    {
-        "aID" : "31b",
-        "value" : "E- Credit Ledger"
-    },
-    {
-        "aID" : "31c",
-        "value" : "E- Liability Register"
-    },
-    {
-        "aID" : "31d",
-        "value" : "Any of the above"
-    },
-    {
-        "aID" : "32a",
-        "value" : "From the date following the day on which tax becomes due to be paid"
-    },
-    {
-        "aID" : "32b",
-        "value" : "Last day such tax was due to be paid"
-    },
-    {
-        "aID" : "32c",
-        "value" : "No period specified"
-    },
-    {
-        "aID" : "32d",
-        "value" : "From the 1st of the month in which return is required to be filed"
-    },
-    {
-        "aID" : "33a",
-        "value" : "2%"
-    },
-    {
-        "aID" : "33b",
-        "value" : "6%"
-    },
-    {
-        "aID" : "33c",
-        "value" : "1%"
-    },
-    {
-        "aID" : "33d",
-        "value" : "0.5%"
-    },
-    {
-        "aID" : "34a",
-        "value" : "used personal effects"
-    },
-    {
-        "aID" : "34b",
-        "value" : "travel souvenirs"
-    },
-    {
-        "aID" : "34c",
-        "value" : "Gold/Silver in the form of Bars"
-    },
-    {
-        "aID" : "34d",
-        "value" : "None of the above"
-    },
-    {
-        "aID" : "35a",
-        "value" : "They don't have any dutiable or prohibited goods"
-    },
-    {
-        "aID" : "35b",
-        "value" : "When they have dutiable or prohibited goods"
-    },
-    {
-        "aID" : "35c",
-        "value" : "Because they like green color more"
-    },
-    {
-        "aID" : "35d",
-        "value" : "None of the above"
-    },
-    {
-        "aID" : "36a",
-        "value" : "They do not have any dutiable or prohibited goods in their baggage"
-    },
-    {
-        "aID" : "36b",
-        "value" : "The value of goods and currency  in their possession/baggage is in excess of their  eligible duty free allowance"
-    },
-    {
-        "aID" : "36c",
-        "value" : "When they  don't have anything to declare before the Customs"
-    },
-    {
-        "aID" : "36d",
-        "value" : "None of the above"
-    },
-    {
-        "aID" : "37a",
-        "value" : "Green Channel"
-    },
-    {
-        "aID" : "37b",
-        "value" : "Red Channel"
-    },
-    {
-        "aID" : "37c",
-        "value" : "Yellow Channel"
-    },
-    {
-        "aID" : "37d",
-        "value" : "None of the above"
-    },
-    {
-        "aID" : "38a",
-        "value" : "ATITHI App"
-    },
-    {
-        "aID" : "38b",
-        "value" : "Arogya Setu App"
-    },
-    {
-        "aID" : "38c",
-        "value" : "PayTm App"
-    },
-    {
-        "aID" : "38d",
-        "value" : "None of the above"
-    },
-    {
-        "aID" : "39a",
-        "value" : "Upto the Value of Rs. 15,000/-"
-    },
-    {
-        "aID" : "39b",
-        "value" : "Upto the Value of Rs. 1,00,000/-"
-    },
-    {
-        "aID" : "39c",
-        "value" : "Upto the Value of Rs. 50,000/-"
-    },
-    {
-        "aID" : "39d",
-        "value" : "None of the above"
-    },
-    {
-        "aID" : "40a",
-        "value" : "Rs. 25,000/-"
-    },
-    {
-        "aID" : "40b",
-        "value" : "Rs. 50,000/-"
-    },
-    {
-        "aID" : "40c",
-        "value" : "Rs. 15,000/-"
-    },
-    {
-        "aID" : "40d",
-        "value" : "None of the above"
-    },
-    {
-        "aID" : "41a",
-        "value" : "Rs. 25,000/-"
-    },
-    {
-        "aID" : "41b",
-        "value" : "Rs. 50,000/-"
-    },
-    {
-        "aID" : "41c",
-        "value" : "Rs. 15,000/-"
-    },
-    {
-        "aID" : "41d",
-        "value" : "None of the above"
-    },
-    {
-        "aID" : "42a",
-        "value" : "Cigarettes exceeding 100 sticks or cigars exceeding 25 or tobacco exceeding 125 gms."
-    },
-    {
-        "aID" : "42b",
-        "value" : "Alcoholic liquor or wines in excess of two litres"
-    },
-    {
-        "aID" : "42c",
-        "value" : "Laptop"
-    },
-    {
-        "aID" : "42d",
-        "value" : "Gold or silver in any form other than ornaments"
-    },
-    {
-        "aID" : "43a",
-        "value" : "Where the value of foreign currency notes exceeds US $5,000/- or equivalent"
-    },
-    {
-        "aID" : "43b",
-        "value" : "Where the aggregate value of foreign exchange (in the form of currency notes, bank notes, traveller cheques etc.) exceeds US $10,000/- or its equivalent"
-    },
-    {
-        "aID" : "43c",
-        "value" : "Both A& B are correct"
-    },
-    {
-        "aID" : "43d",
-        "value" : "None of this correct"
-    },
-    {
-        "aID" : "44a",
-        "value" : "Rs. 1,00,000/-"
-    },
-    {
-        "aID" : "44b",
-        "value" : "Rs. 5,00,000/-"
-    },
-    {
-        "aID" : "44c",
-        "value" : "Rs. 25,000/- "
-    },
-    {
-        "aID" : "44d",
-        "value" : "Rs. 2,50,000/-"
-    },
-    {
-        "aID" : "45a",
-        "value" : "Yes"
-    },
-    {
-        "aID" : "45b",
-        "value" : "No"
-    },
-    {
-        "aID" : "45c",
-        "value" : ""
-    },
-    {
-        "aID" : "45d",
-        "value" : ""
-    },
-    {
-        "aID" : "46a",
-        "value" : "jewelleryupto a weight, of twenty grams with a value cap of fifty thousand rupees"
-    },
-    {
-        "aID" : "46b",
-        "value" : "forty grams with a value cap of one lakh rupees"
-    },
-    {
-        "aID" : "46c",
-        "value" : "There is no  limit"
-    },
-    {
-        "aID" : "46d",
-        "value" : "None of the above"
-    },
-    {
-        "aID" : "47a",
-        "value" : "upto a weight, of twenty grams with a value cap of fifty thousand rupees"
-    },
-    {
-        "aID" : "47b",
-        "value" : "forty grams with a value cap of one lakh rupees"
-    },
-    {
-        "aID" : "47c",
-        "value" : "There is no  limit"
-    },
-    {
-        "aID" : "47d",
-        "value" : "None of the above"
-    },
-    {
-        "aID" : "48a",
-        "value" : "Maps and literature where Indian external boundaries have been shown incorrectly."
-    },
-    {
-        "aID" : "48b",
-        "value" : "Narcotic Drugs and Psychotropic Substances."
-    },
-    {
-        "aID" : "48c",
-        "value" : "Goods violating any of the legally enforceable intellectual property rights."
-    },
-    {
-        "aID" : "48d",
-        "value" : "Laptop"
-    },
-    {
-        "aID" : "49a",
-        "value" : "Shipping Bill"
-    },
-    {
-        "aID" : "49b",
-        "value" : "Bill of Entry"
-    },
-    {
-        "aID" : "49c",
-        "value" : "Export Certificate"
-    },
-    {
-        "aID" : "49d",
-        "value" : "Passport"
-    },
-    {
-        "aID" : "50a",
-        "value" : "Indian currency notes not exceeding Rs.25,000/-"
-    },
-    {
-        "aID" : "50b",
-        "value" : "Indian currency notes not exceeding Rs.50,000/-"
-    },
-    {
-        "aID" : "50c",
-        "value" : "Indian currency notes not exceeding Rs.2,00,000/-"
-    },
-    {
-        "aID" : "50d",
-        "value" : "There is no such restrictions"
-    },
-    {
-        "aID" : "51a",
-        "value" : "Rs. 2,00,000/-"
-    },
-    {
-        "aID" : "51b",
-        "value" : "Rs. 5,00,000/-"
-    },
-    {
-        "aID" : "51c",
-        "value" : "There is no  limit"
-    },
-    {
-        "aID" : "51d",
-        "value" : "Rs. 50,000/-"
-    },
-    {
-        "aID" : "52a",
-        "value" : "True"
-    },
-    {
-        "aID" : "52b",
-        "value" : "False"
-    },
-    {
-        "aID" : "52c",
-        "value" : ""
-    },
-    {
-        "aID" : "52d",
-        "value" : ""
-    },
-    {
-        "aID" : "53a",
-        "value" : "Animals & parts thereof or plants & parts thereof,"
-    },
-    {
-        "aID" : "53b",
-        "value" : "Books & Magazines"
-    },
-    {
-        "aID" : "53c",
-        "value" : "Chemicals of chapter 28, 29 & 38 of the first schedule to Customs Tariff Act which need testing"
-    },
-    {
-        "aID" : "53d",
-        "value" : "Precious and semi precious stones & Studded jewellery,"
-    },
-    {
-        "aID" : "54a",
-        "value" : "Goods which are subject to levy of any duty on their export,"
-    },
-    {
-        "aID" : "54b",
-        "value" : "Goods proposed to be exported with claim for Draw Back of Customs duty,"
-    },
-    {
-        "aID" : "54c",
-        "value" : "Goods exported under Duty Entitlement Pass Book Schemes or Duty Exemption Scheme or Export Promotion Capital Goods Scheme, and"
-    },
-    {
-        "aID" : "54d",
-        "value" : "Goods where the value of consignment is below  Rs. 25,000/-"
-    },
-    {
-        "aID" : "55a",
-        "value" : "Rs.  5,000/-"
-    },
-    {
-        "aID" : "55b",
-        "value" : "Rs. 1,000/-"
-    },
-    {
-        "aID" : "55c",
-        "value" : "Rs. 50,000/-"
-    },
-    {
-        "aID" : "55d",
-        "value" : "There is no limit"
+        "aID": "23d",
+        "value": "Lucknow Airport"
     }
 ]

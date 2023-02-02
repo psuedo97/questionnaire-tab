@@ -1,222 +1,94 @@
 [
     {
-        "qId" : 1,
-        "value" : "GST stands for"
+        "qId": 1,
+        "value": "What does FAA Stand for?"
     },
     {
-        "qId" : 2,
-        "value" : "GST was implemented in India from"
+        "qId": 2,
+        "value": "Altitude in aviation is measured in?"
     },
     {
-        "qId":3,
-        "value" : "GST is applicable on"
+        "qId": 3,
+        "value": "What does ICAO stand for?"
     },
     {
-        "qId":4,
-        "value": "Which of the following items is out of purview of GST? "
+        "qId": 4,
+        "value": "The device used for measuring altitudes is ?"
     },
     {
-        "qId":5,
-        "value" : "Which of the following paved the way for introduction of GST in India?"
+        "qId": 5,
+        "value": "Where is Netaji Subhash Chandra Bose International Airport situated?"
     },
     {
-        "qId":6,
-        "value" : "Which of the following is correct in relation to GST?"
+        "qId": 6,
+        "value": "Where is Chhatrapati Shivaji International Airport situated?"
     },
     {
-        "qId":7,
-        "value" : "The rate of tax under GST is notified by the Government on the recommendations of "
+        "qId": 7,
+        "value": "Where is Indira Gandhi International Airport situated?"
     },
     {
-        "qId":8,
-        "value" : "Currently on which of the following products , GST can be levied? "
+        "qId": 8,
+        "value": "GAGAN Stands for GPS Aided GEO Augmented ___________"
     },
     {
-        "qId":9,
-        "value" : "CGST is levied on?"
+        "qId": 9,
+        "value": "GAGAN is a jointly developed by AAI &__________?"
     },
     {
-        "qId":10,
-        "value" : "Input tax credit on works contract service can be availed only-"
+        "qId": 10,
+        "value": "In aviation terminology A stands for Alpha, B stands for Bravo, C stands for Charlie similarly I stands for ______?"
     },
     {
-        "qId":11,
-        "value" : "Services by an educational institution are exempt if the services are provided to –"
+        "qId": 11,
+        "value": "What is full form of ACI in Aviation ?"
     },
     {
-        "qId":12,
-        "value" : "What is the monetary limit of contract value in order to attract deduction of tax?"
+        "qId": 12,
+        "value": "In Aviation, alphabetical terms A stands for Alfa, B stands for Bravo, C Stands for Charlie and D stands for_____?"
     },
     {
-        "qId":13,
-        "value" : "HSN stands for"
+        "qId": 13,
+        "value": "A defined area on an airport prepared for the landing and taking off of aircraft is called?"
     },
     {
-        "qId":14,
-        "value" : "Which of the following is known as the GST Common portal?"
+        "qId": 14,
+        "value": "In the year 2011, India celebrated the ‘Centenary of Civil Aviation in India’. When did the ‘First Commercial Plane’ flew in India?"
     },
     {
-        "qId":15,
-        "value" : "Which type of tax shall be levied in case of intra-State supply?"
+        "qId": 15,
+        "value": "The term ‘ATF’ used in airlines term is referred to as?"
     },
     {
-        "qId":16,
-        "value" : "What is the time limit beyond which if goods are not returned, the inputs sent for job work shall be treated as supply?"
+        "qId": 16,
+        "value": "What is the colour of ‘Black Box’ in the Aeroplane?"
     },
     {
-        "qId":17,
-        "value" : "The term ‘Aggregate Turnover’ under GST includes:"
+        "qId": 17,
+        "value": "Which Airport in India is also called ‘Swami Vivekanand Airport’ ?"
     },
     {
-        "qId":18,
-        "value" : "Which of the following will attract levy of UTGST?"
+        "qId": 18,
+        "value": "All planets rotate round the sun in anti-clockwise direction except one planet which rotates in clock wise direction. Which is that planet?"
     },
     {
-        "qId":19,
-        "value" : "When does liability to pay GST arise in case of supply of services?"
+        "qId": 19,
+        "value": "Full form of IATA is International Air Transport Association?"
     },
     {
-        "qId":20,
-        "value" : "GSTIN stands for"
+        "qId": 20,
+        "value": "The area of an airport where aircrafts are parked, unloaded or loaded, refueled, or boarded is called –"
     },
     {
-        "qId":21,
-        "value" : "How many digits are there in GSTIN?"
+        "qId": 21,
+        "value": "Qantas is the which country’s airline?"
     },
     {
-        "qId":22,
-        "value" : "In case of exempt supply, ………………….  is required to be issued."
+        "qId": 22,
+        "value": "NOTAMs are issued mostly to inform pilots of changes to airports, airways and local procedures that affect the safety of flight. What is full form of NOTAM:"
     },
     {
-        "qId":23,
-        "value" : "What shall be the default rate and nature of supply, where at the time of receipt of advance, they are not determinable?"
-    },
-    {
-        "qId":24,
-        "value" : "When is e-way bill required to be generated?"
-    },
-    {
-        "qId":25,
-        "value" : "In how many days, if payment is not made by the recipient to supplier, then input tax credit has to be reversed by the recipient?"
-    },
-    {
-        "qId":26,
-        "value" : "What is the form for submission of details of outward supplies?"
-    },
-    {
-        "qId":27,
-        "value" : "In which form is return required to be filed by Non-Resident Taxable person?"
-    },
-    {
-        "qId":28,
-        "value" : "Which of the following types of ledgers are available at GST common portal?"
-    },
-    {
-        "qId":29,
-        "value" : "Input tax credit gets credited to which ledger?"
-    },
-    {
-        "qId":30,
-        "value" : "Every person who fails to pay tax within the due date prescribed shall pay interest at the  rate of"
-    },
-    {
-        "qId":31,
-        "value" : "The amount towards tax, interest, penalty, fee is deposited into"
-    },
-    {
-        "qId":32,
-        "value" : "Interest is calculated"
-    },
-    {
-        "qId":33,
-        "value" : "What is the rate of Tax Deduction at Source (TDS) under GST?"
-    },
-    {
-        "qId":34,
-        "value" : "Which of the following does not fall into category of bonafide baggage, for passengers entering into India."
-    },
-    {
-        "qId":35,
-        "value" : "Green Channel is used by the passengers entering into India, when"
-    },
-    {
-        "qId":36,
-        "value" : "Which of the following is correct ,''Custom Declaration Form is necessary for passengers entering into India, when''"
-    },
-    {
-        "qId":37,
-        "value" : "After filing the Custom Declaration form, the passenger entering into India has to pass through the"
-    },
-    {
-        "qId":38,
-        "value" : "Which of the following mobile application can be used by the International Passengers arriving into  India to file Custom Declaration in advance, even before boarding the flight to India"
-    },
-    {
-        "qId":39,
-        "value" : "Your friend who is India Resident,  is coming to India from Nepal.  What is the value of duty free allowance for articles in his person/accompanied baggage,"
-    },
-    {
-        "qId":40,
-        "value" : "My uncle who is returning to India from USA, the value of the duty free allowance for articles in his person/accompanied baggage is"
-    },
-    {
-        "qId":41,
-        "value" : "For tourist of foreign origin , entering into India from Countries other than Nepal, Bhutan or Myanmar, the value of  duty free allowance for articles in his person/accompanied baggage is"
-    },
-    {
-        "qId":42,
-        "value" : "My brother who is India Resident is coming to India from USA, which of the following items he can bring bring as a part of his duty free baggage,"
-    },
-    {
-        "qId":43,
-        "value" : "Which of the following is correct"
-    },
-    {
-        "qId":44,
-        "value" : "What is the maximum limit of Indian Currency, than can be brought by any Indian passenger arriving into India, from Abroad"
-    },
-    {
-        "qId":45,
-        "value" : "My tourist friend is friend is coming to India from abroad, Can be bring LED/LCD/PLASMA Televisions, as part of his duty free baggage,  exempt from Customs duty?"
-    },
-    {
-        "qId":46,
-        "value" : "My brother is returning to India from abroad after more than one year, he is entitled for clearance free of duty in his bonafide baggage of Jewelleryupto,"
-    },
-    {
-        "qId":47,
-        "value" : "A lady passenger is returning to India from aborad after more than one year, she is entitled for clearance free of duty in her bonafide baggage of Jewellery,"
-    },
-    {
-        "qId":48,
-        "value" : "Which of the following items are not prohibited for import;"
-    },
-    {
-        "qId":49,
-        "value" : "The passengers leaving India can take -------- for various high value items such as Camera, Video Camera,  Jewellery etc. from the Customs Authorities in order to ensure that no duty is charged while bringing back these things to India."
-    },
-    {
-        "qId":50,
-        "value" : "What is the maximum amount of Indian Currency allowed to be taken by Indian Residents,  when going abroad/ leaving India?"
-    },
-    {
-        "qId":51,
-        "value" : "Indian residents going abroad are permitted to take with them foreign currency upto _______so long as the same has been purchased/issued by RBI approved/authorized foreign exchange dealer as per norms."
-    },
-    {
-        "qId":52,
-        "value" : "Passenger of 18 years and above, arriving to India from anywhere, can bring one Laptop or Note book or Computer as part of their duty free baggage."
-    },
-    {
-        "qId":53,
-        "value" : "Which of the following  goods are not  prohibited for import through courier are:"
-    },
-    {
-        "qId":54,
-        "value" : "Which of the following statement is Wrong, The export of following goods, through courier is restricted where"
-    },
-    {
-        "qId":55,
-        "value" : "My relatives from abroad, want to send me gifts through Courier Mode.  For  duty free clearance from Customs, the value of such gifted goods should not exceed"
+        "qId": 23,
+        "value": "Which Airport in India is also known as Chaudhary Charan Singh International Airport?"
     }
 ]

@@ -135,7 +135,7 @@ const Box = (props) =>{
                                             <div className={"shape-outer-ans hexagon " + arr[i]} onClick={()=>checkAnswer(val,i)}>
                                                 <div className={"shape-inner-ans hexagon d-flex align-items-center " + arr[i]}>
                                                     <div className="ansDiv">
-                                                        <p className="text-white text-start py-auto mt-2 fw-bold pt-1 text-ans" >{`${optionAlpha[i]}. ${ansValue}`}</p>
+                                                        <p className="text-capitalize text-white text-start py-auto mt-2 fw-bold pt-1 text-ans" >{`${optionAlpha[i]}. ${ansValue}`}</p>
                                                     </div>
                                                 </div>
                                             </div>
