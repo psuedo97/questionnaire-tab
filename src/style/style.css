@@ -13,8 +13,8 @@
   background-position: center;
   background-repeat: no-repeat;
   height: 100vh;
-  filter: blur(18px);
-  -webkit-filter: blur(5px);
+  filter: blur(1px);
+  -webkit-filter: blur(1px);
 }
 .finishBody {
   background: url("../assets/bg-2.jpg");
@@ -175,3 +175,17 @@
   top: 0;
   z-index: 2;
 }
+.btn-start{
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  top: -22vh;
+  width: 15vw;
+}
+.center-logo{
+  width: 35vw;
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  top: 17vh;
+} 

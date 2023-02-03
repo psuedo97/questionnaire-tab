@@ -6,7 +6,9 @@ import { Provider, connect } from "react-redux";
 import { useNavigate } from "react-router-dom";
 import leftLogo from "../assets/aai-white.png";
 import rightLogo from "../assets/G20.png";
-import years from '../assets/75yrs.png';
+import years from "../assets/75yrs.png";
+import startBtn from "../assets/Enter.png";
+import centerLogo from "../assets/logo.png";
 
 const Landing = (props) => {
   const str = "START";
@@ -32,11 +34,18 @@ const Landing = (props) => {
           "text-danger position-relative d-flex justify-content-center landingBox"
         }
       >
-        <div className="shape-outer hexagon" onClick={() => changeNavigation()}>
+        <div className="start-btn-div">
+          <img
+            className="btn-start"
+            src={startBtn}
+            onClick={changeNavigation}
+          />
+        </div>
+        {/* <div className="shape-outer hexagon d-none" onClick={() => changeNavigation()}>
           <div className="shape-inner hexagon d-flex align-items-center justify-content-center">
             <p className="text-white text-center py-auto my-2 fw-bold">{str}</p>
           </div>
-        </div>
+        </div> */}
       </div>
       {/* <Provider>
                 <Box boxStyle="landingBox" page="landing" str="START"/>
