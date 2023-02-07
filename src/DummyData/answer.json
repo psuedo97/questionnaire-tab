@@ -13,7 +13,7 @@
     },
     {
         "aID": "1d",
-        "value": "Federation of Aviation Authority"
+        "value": "Flying Aviation Administration"
     },
     {
         "aID": "2a",
@@ -49,322 +49,434 @@
     },
     {
         "aID": "4a",
-        "value": "altimeter"
+        "value": "Agra Airport"
     },
     {
         "aID": "4b",
-        "value": "ammeter"
-    },
-    {
-        "aID": "4c",
-        "value": "audiometer"
-    },
-    {
-        "aID": "4d",
-        "value": "galvanometer"
-    },
-    {
-        "aID": "5a",
-        "value": "Bhopal"
-    },
-    {
-        "aID": "5b",
-        "value": "Coimbatore"
-    },
-    {
-        "aID": "5c",
-        "value": "Kolkata"
-    },
-    {
-        "aID": "5d",
-        "value": "Nagpur"
-    },
-    {
-        "aID": "6a",
-        "value": "Imphal"
-    },
-    {
-        "aID": "6b",
-        "value": "New Delhi"
-    },
-    {
-        "aID": "6c",
-        "value": "Mumbai"
-    },
-    {
-        "aID": "6d",
-        "value": "Hyderabad"
-    },
-    {
-        "aID": "7a",
-        "value": "New Delhi"
-    },
-    {
-        "aID": "7b",
-        "value": "Bengaluru"
-    },
-    {
-        "aID": "7c",
-        "value": "Hyderabad"
-    },
-    {
-        "aID": "7d",
-        "value": "Mumbai"
-    },
-    {
-        "aID": "8a",
-        "value": "Nation"
-    },
-    {
-        "aID": "8b",
-        "value": "Navigation"
-    },
-    {
-        "aID": "8c",
-        "value": "Northern"
-    },
-    {
-        "aID": "8d",
-        "value": "Navigational"
-    },
-    {
-        "aID": "9a",
-        "value": "NASA"
-    },
-    {
-        "aID": "9b",
-        "value": "UKSA"
-    },
-    {
-        "aID": "9c",
-        "value": "CNSA"
-    },
-    {
-        "aID": "9d",
-        "value": "ISRO"
-    },
-    {
-        "aID": "10a",
-        "value": "Indigo"
-    },
-    {
-        "aID": "10b",
-        "value": "Infra"
-    },
-    {
-        "aID": "10c",
-        "value": "India"
-    },
-    {
-        "aID": "10d",
-        "value": "Indo"
-    },
-    {
-        "aID": "11a",
-        "value": "Airport Civil India"
-    },
-    {
-        "aID": "11b",
-        "value": "Airport Council India"
-    },
-    {
-        "aID": "11c",
-        "value": "Airport Council International"
-    },
-    {
-        "aID": "11d",
-        "value": "Asia Council International"
-    },
-    {
-        "aID": "12a",
-        "value": "Dial"
-    },
-    {
-        "aID": "12b",
-        "value": "Delta"
-    },
-    {
-        "aID": "12c",
-        "value": "Dry"
-    },
-    {
-        "aID": "12d",
-        "value": "Depth"
-    },
-    {
-        "aID": "13a",
-        "value": "RESA"
-    },
-    {
-        "aID": "13b",
-        "value": "Apron"
-    },
-    {
-        "aID": "13c",
-        "value": "Runway"
-    },
-    {
-        "aID": "13d",
-        "value": "Anchor"
-    },
-    {
-        "aID": "14a",
-        "value": "1911"
-    },
-    {
-        "aID": "14b",
-        "value": "1912"
-    },
-    {
-        "aID": "14c",
-        "value": "1913"
-    },
-    {
-        "aID": "14d",
-        "value": "1914"
-    },
-    {
-        "aID": "15a",
-        "value": "All Time Flying"
-    },
-    {
-        "aID": "15b",
-        "value": "Aviation Turbine Fuel"
-    },
-    {
-        "aID": "15c",
-        "value": "Air Traffic Fuel"
-    },
-    {
-        "aID": "15d",
-        "value": "Aviation Temperature Fuel"
-    },
-    {
-        "aID": "16a",
-        "value": "Black"
-    },
-    {
-        "aID": "16b",
-        "value": "Red"
-    },
-    {
-        "aID": "16c",
-        "value": "Blue"
-    },
-    {
-        "aID": "16d",
-        "value": "Orange"
-    },
-    {
-        "aID": "17a",
-        "value": "Bhopal Airport"
-    },
-    {
-        "aID": "17b",
-        "value": "Raipur Airport"
-    },
-    {
-        "aID": "17c",
-        "value": "Ahmedabad Airport"
-    },
-    {
-        "aID": "17d",
-        "value": "Indore Airport"
-    },
-    {
-        "aID": "18a",
-        "value": "Earth"
-    },
-    {
-        "aID": "18b",
-        "value": "Venus"
-    },
-    {
-        "aID": "18c",
-        "value": "Jupiter"
-    },
-    {
-        "aID": "18d",
-        "value": "Mars"
-    },
-    {
-        "aID": "19a",
-        "value": "True"
-    },
-    {
-        "aID": "19b",
-        "value": "False"
-    },
-    {
-        "aID": "19c",
-        "value": ""
-    },
-    {
-        "aID": "19d",
-        "value": ""
-    },
-    {
-        "aID": "20a",
-        "value": "Apron"
-    },
-    {
-        "aID": "20b",
-        "value": "Runway"
-    },
-    {
-        "aID": "20c",
-        "value": "Ramp"
-    },
-    {
-        "aID": "20d",
-        "value": "General Aviation Terminal"
-    },
-    {
-        "aID": "21a",
-        "value": "Australia"
-    },
-    {
-        "aID": "21b",
-        "value": "Greece"
-    },
-    {
-        "aID": "21c",
-        "value": "India"
-    },
-    {
-        "aID": "21d",
-        "value": "Germany"
-    },
-    {
-        "aID": "22a",
-        "value": "Notice to Airline Service"
-    },
-    {
-        "aID": "22b",
-        "value": "Notice to Airport"
-    },
-    {
-        "aID": "22c",
-        "value": "Notice to Airmen"
-    },
-    {
-        "aID": "22d",
-        "value": "Notice to Aircraft"
-    },
-    {
-        "aID": "23a",
-        "value": "AGRA Airport"
-    },
-    {
-        "aID": "23b",
         "value": "Varanasi Airport"
     },
     {
-        "aID": "23c",
+        "aID": "4c",
         "value": "Gorakhpur Airport"
     },
     {
-        "aID": "23d",
+        "aID": "4d",
         "value": "Lucknow Airport"
+    },
+    {
+        "aID": "5a",
+        "value": "9 Airports"
+    },
+    {
+        "aID": "5b",
+        "value": "11 Airports"
+    },
+    {
+        "aID": "5c",
+        "value": "12 Airports"
+    },
+    {
+        "aID": "5d",
+        "value": "8 Airports"
+    },
+    {
+        "aID": "6a",
+        "value": "Uttarakhand Development Authority Nigam"
+    },
+    {
+        "aID": "6b",
+        "value": "Under Development Air Networks"
+    },
+    {
+        "aID": "6c",
+        "value": "Upper Directorate Air Navigation"
+    },
+    {
+        "aID": "6d",
+        "value": "Ude Desh ka Aam Naagrik"
+    },
+    {
+        "aID": "7a",
+        "value": "Bhopal"
+    },
+    {
+        "aID": "7b",
+        "value": "Coimbatore"
+    },
+    {
+        "aID": "7c",
+        "value": "Kolkata"
+    },
+    {
+        "aID": "7d",
+        "value": "Nagpur"
+    },
+    {
+        "aID": "8a",
+        "value": "Regional Concession Scheme"
+    },
+    {
+        "aID": "8b",
+        "value": "Regional Commission for Schools"
+    },
+    {
+        "aID": "8c",
+        "value": "Regional Connectivity Scheme"
+    },
+    {
+        "aID": "8d",
+        "value": "Rural Commission for Services"
+    },
+    {
+        "aID": "9a",
+        "value": "New Delhi"
+    },
+    {
+        "aID": "9b",
+        "value": "Bengaluru"
+    },
+    {
+        "aID": "9c",
+        "value": "Hyderabad"
+    },
+    {
+        "aID": "9d",
+        "value": "Mumbai"
+    },
+    {
+        "aID": "10a",
+        "value": "Jolly Grant Airport"
+    },
+    {
+        "aID": "10b",
+        "value": "Rajmata Vijaya Raje Scindhia Airport"
+    },
+    {
+        "aID": "10c",
+        "value": "Hindon Airport"
+    },
+    {
+        "aID": "10d",
+        "value": "Raja Bhoj International Airport"
+    },
+    {
+        "aID": "11a",
+        "value": "Nation"
+    },
+    {
+        "aID": "11b",
+        "value": "Navigation"
+    },
+    {
+        "aID": "11c",
+        "value": "Northern"
+    },
+    {
+        "aID": "11d",
+        "value": "Navigational"
+    },
+    {
+        "aID": "12a",
+        "value": "Indigo"
+    },
+    {
+        "aID": "12b",
+        "value": "Infra"
+    },
+    {
+        "aID": "12c",
+        "value": "India"
+    },
+    {
+        "aID": "12d",
+        "value": "Indo"
+    },
+    {
+        "aID": "13a",
+        "value": "Agra"
+    },
+    {
+        "aID": "13b",
+        "value": "Raebareli"
+    },
+    {
+        "aID": "13c",
+        "value": "Gorakhpur"
+    },
+    {
+        "aID": "13d",
+        "value": "Prayagraj (previously known as Allahabad)"
+    },
+    {
+        "aID": "14a",
+        "value": "2.8 million square nautical miles"
+    },
+    {
+        "aID": "14b",
+        "value": "1.05 million square nautical miles"
+    },
+    {
+        "aID": "14c",
+        "value": "1.75 million square nautical miles"
+    },
+    {
+        "aID": "14d",
+        "value": "3.50 million square nautical miles"
+    },
+    {
+        "aID": "15a",
+        "value": "130"
+    },
+    {
+        "aID": "15b",
+        "value": "133"
+    },
+    {
+        "aID": "15c",
+        "value": "126"
+    },
+    {
+        "aID": "15d",
+        "value": "122"
+    },
+    {
+        "aID": "16a",
+        "value": "Taxiway"
+    },
+    {
+        "aID": "16b",
+        "value": "Apron"
+    },
+    {
+        "aID": "16c",
+        "value": "Runway"
+    },
+    {
+        "aID": "16d",
+        "value": "Stopways"
+    },
+    {
+        "aID": "17a",
+        "value": "Rs. 2700/- per hourly flight"
+    },
+    {
+        "aID": "17b",
+        "value": "Rs. 2500/- per hourly flight"
+    },
+    {
+        "aID": "17c",
+        "value": "Rs. 2100/- per hourly flight"
+    },
+    {
+        "aID": "17d",
+        "value": "Rs. 1800/- per hourly flight"
+    },
+    {
+        "aID": "18a",
+        "value": "All-Time Flying"
+    },
+    {
+        "aID": "18b",
+        "value": "Aviation Turbine Fuel"
+    },
+    {
+        "aID": "18c",
+        "value": "Air Traffic Fuel"
+    },
+    {
+        "aID": "18d",
+        "value": "Aviation Temperature Fuel"
+    },
+    {
+        "aID": "19a",
+        "value": "Kanpur"
+    },
+    {
+        "aID": "19b",
+        "value": "Fursatganj"
+    },
+    {
+        "aID": "19c",
+        "value": "Raebareli"
+    },
+    {
+        "aID": "19d",
+        "value": "Chitrakoot"
+    },
+    {
+        "aID": "20a",
+        "value": "Shri Jyotiraditya Scindia"
+    },
+    {
+        "aID": "20b",
+        "value": "Shri Ajit Singh"
+    },
+    {
+        "aID": "20c",
+        "value": "Shri Suresh Prabhu"
+    },
+    {
+        "aID": "20d",
+        "value": "Shri Prafful Patel"
+    },
+    {
+        "aID": "21a",
+        "value": "Black"
+    },
+    {
+        "aID": "21b",
+        "value": "Red"
+    },
+    {
+        "aID": "21c",
+        "value": "Blue"
+    },
+    {
+        "aID": "21d",
+        "value": "Orange"
+    },
+    {
+        "aID": "22a",
+        "value": "Unemployed youth"
+    },
+    {
+        "aID": "22b",
+        "value": "Skilled Artisans of the Region"
+    },
+    {
+        "aID": "22c",
+        "value": "For physically challenged People"
+    },
+    {
+        "aID": "22d",
+        "value": "Students"
+    },
+    {
+        "aID": "23a",
+        "value": "NASA"
+    },
+    {
+        "aID": "23b",
+        "value": "DRDO"
+    },
+    {
+        "aID": "23c",
+        "value": "BARC"
+    },
+    {
+        "aID": "23d",
+        "value": "ISRO"
+    },
+    {
+        "aID": "24a",
+        "value": "Kanpur Airport"
+    },
+    {
+        "aID": "24b",
+        "value": "Varanasi Airport"
+    },
+    {
+        "aID": "24c",
+        "value": "Hindon Airport"
+    },
+    {
+        "aID": "24d",
+        "value": "Prayagraj Airport (previously known as Allahabad Airport)"
+    },
+    {
+        "aID": "25a",
+        "value": "Airport Civil India"
+    },
+    {
+        "aID": "25b",
+        "value": "Airport Council India"
+    },
+    {
+        "aID": "25c",
+        "value": "Airport Council International"
+    },
+    {
+        "aID": "25d",
+        "value": "Asia Council International"
+    },
+    {
+        "aID": "26a",
+        "value": "AGRA Airport"
+    },
+    {
+        "aID": "26b",
+        "value": "Kanpur Airport"
+    },
+    {
+        "aID": "26c",
+        "value": "Gorakhpur Airport"
+    },
+    {
+        "aID": "26d",
+        "value": "Varanasi Airport"
+    },
+    {
+        "aID": "27a",
+        "value": "Bhopal Airport"
+    },
+    {
+        "aID": "27b",
+        "value": "Raipur Airport"
+    },
+    {
+        "aID": "27c",
+        "value": "Ahmedabad Airport"
+    },
+    {
+        "aID": "27d",
+        "value": "Indore Airport"
+    },
+    {
+        "aID": "28a",
+        "value": "Gorakhpur"
+    },
+    {
+        "aID": "28b",
+        "value": "Bareilly"
+    },
+    {
+        "aID": "28c",
+        "value": "Hindon"
+    },
+    {
+        "aID": "28d",
+        "value": "Prayagraj  (previously known as Allahabad)"
+    },
+    {
+        "aID": "29a",
+        "value": "Kushinagar Airport"
+    },
+    {
+        "aID": "29b",
+        "value": "Lucknow Airport"
+    },
+    {
+        "aID": "29c",
+        "value": "Gorakhpur Airport"
+    },
+    {
+        "aID": "29d",
+        "value": "Prayagraj Airport"
+    },
+    {
+        "aID": "30a",
+        "value": "Netherland"
+    },
+    {
+        "aID": "30b",
+        "value": "USA"
+    },
+    {
+        "aID": "30c",
+        "value": "Malaysia"
+    },
+    {
+        "aID": "30d",
+        "value": "India"
     }
 ]

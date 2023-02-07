@@ -17,32 +17,32 @@
     {
         "qId" : 4,
         "aId" : ["4a","4b","4c","4d"],
-        "answerId" : "4a"
+        "answerId" : "4d"
     },
     {
         "qId" : 5,
         "aId" : ["5a","5b","5c","5d"],
-        "answerId" : "5b"
+        "answerId" : "5a"
     },
     {
         "qId" : 6,
         "aId" : ["6a","6b","6c","6d"],
-        "answerId" : "6c"
+        "answerId" : "6d"
     },
     {
         "qId" : 7,
         "aId" : ["7a","7b","7c","7d"],
-        "answerId" : "7a"
+        "answerId" : "7b"
     },
     {
         "qId" : 8,
         "aId" : ["8a","8b","8c","8d"],
-        "answerId" : "8b"
+        "answerId" : "8c"
     },
     {
         "qId" : 9,
         "aId" : ["9a","9b","9c","9d"],
-        "answerId" : "9d"
+        "answerId" : "9a"
     },
     {
         "qId" : 10,
@@ -52,17 +52,17 @@
     {
         "qId" : 11,
         "aId" : ["11a","11b","11c","11d"],
-        "answerId" : "11c"
+        "answerId" : "11b"
     },
     {
         "qId" : 12,
         "aId" : ["12a","12b","12c","12d"],
-        "answerId" : "12b"
+        "answerId" : "12c"
     },
     {
         "qId" : 13,
         "aId" : ["13a","13b","13c","13d"],
-        "answerId" : "13c"
+        "answerId" : "13d"
     },
     {
         "qId" : 14,
@@ -77,7 +77,7 @@
     {
         "qId" : 16,
         "aId" : ["16a","16b","16c","16d"],
-        "answerId" : "16d"
+        "answerId" : "16c"
     },
     {
         "qId" : 17,
@@ -92,7 +92,7 @@
     {
         "qId" : 19,
         "aId" : ["19a","19b","19c","19d"],
-        "answerId" : "19a"
+        "answerId" : "19b"
     },
     {
         "qId" : 20,
@@ -102,16 +102,51 @@
     {
         "qId" : 21,
         "aId" : ["21a","21b","21c","21d"],
-        "answerId" : "21a"
+        "answerId" : "21d"
     },
     {
         "qId" : 22,
         "aId" : ["22a","22b","22c","22d"],
-        "answerId" : "22c"
+        "answerId" : "22b"
     },
     {
         "qId" : 23,
         "aId" : ["23a","23b","23c","23d"],
         "answerId" : "23d"
+    },
+    {
+        "qId" : 24,
+        "aId" : ["24a","24b","24c","24d"],
+        "answerId" : "24d"
+    },
+    {
+        "qId" : 25,
+        "aId" : ["25a","25b","25c","25d"],
+        "answerId" : "25c"
+    },
+    {
+        "qId" : 26,
+        "aId" : ["26a","26b","26c","26d"],
+        "answerId" : "26d"
+    },
+    {
+        "qId" : 27,
+        "aId" : ["27a","27b","27c","27d"],
+        "answerId" : "27b"
+    },
+    {
+        "qId" : 28,
+        "aId" : ["28a","28b","28c","28d"],
+        "answerId" : "28d"
+    },
+    {
+        "qId" : 29,
+        "aId" : ["29a","29b","29c","29d"],
+        "answerId" : "29a"
+    },
+    {
+        "qId" : 30,
+        "aId" : ["30a","30b","30c","30d"],
+        "answerId" : "30a"
     }
 ]

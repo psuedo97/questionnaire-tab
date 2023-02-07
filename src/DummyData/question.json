@@ -13,82 +13,110 @@
     },
     {
         "qId": 4,
-        "value": "The device used for measuring altitudes is ?"
+        "value": "Which Airport in India is also known as Chaudhary Charan Singh International Airport?"
     },
     {
         "qId": 5,
-        "value": "Where is Netaji Subhash Chandra Bose International Airport situated?"
+        "value": "How many airports are operational in Uttar Pradesh?"
     },
     {
         "qId": 6,
-        "value": "Where is Chhatrapati Shivaji International Airport situated?"
+        "value": "Full form of UDAN?"
     },
     {
         "qId": 7,
-        "value": "Where is Indira Gandhi International Airport situated?"
+        "value": "Where is Netaji Subhash Chandra Bose International Airport situated?"
     },
     {
         "qId": 8,
-        "value": "GAGAN Stands for GPS Aided GEO Augmented ___________"
+        "value": "Full form of RCS?"
     },
     {
         "qId": 9,
-        "value": "GAGAN is a jointly developed by AAI &__________?"
+        "value": "Where is Indira Gandhi International Airport situated?"
     },
     {
         "qId": 10,
-        "value": "In aviation terminology A stands for Alpha, B stands for Bravo, C stands for Charlie similarly I stands for ______?"
+        "value": "which is in Uttar Pradesh?"
     },
     {
         "qId": 11,
-        "value": "What is full form of ACI in Aviation ?"
+        "value": "GAGAN Stands for GPS-Aided GEO Augmented _____"
     },
     {
         "qId": 12,
-        "value": "In Aviation, alphabetical terms A stands for Alfa, B stands for Bravo, C Stands for Charlie and D stands for_____?"
+        "value": "In aviation terminology A stands for Alpha, B stands for Bravo, C stands for Charlie similarly I stands for __?"
     },
     {
         "qId": 13,
-        "value": "A defined area on an airport prepared for the landing and taking off of aircraft is called?"
+        "value": "Civil Aviation Training College (CATC) is situated in which city of Uttar Pradesh?"
     },
     {
         "qId": 14,
-        "value": "In the year 2011, India celebrated the ‘Centenary of Civil Aviation in India’. When did the ‘First Commercial Plane’ flew in India?"
+        "value": "How much air space is designated to India that includes land area and oceanic airspace?"
     },
     {
         "qId": 15,
-        "value": "The term ‘ATF’ used in airlines term is referred to as?"
+        "value": "AAI owns ______________ Airports"
     },
     {
         "qId": 16,
-        "value": "What is the colour of ‘Black Box’ in the Aeroplane?"
+        "value": "A defined area on an airport prepared for the landing and taking off of aircrafts is called?"
     },
     {
         "qId": 17,
-        "value": "Which Airport in India is also called ‘Swami Vivekanand Airport’ ?"
+        "value": "Under RCS-UDAN scheme, at what cost passengers can get air tickets?"
     },
     {
         "qId": 18,
-        "value": "All planets rotate round the sun in anti-clockwise direction except one planet which rotates in clock wise direction. Which is that planet?"
+        "value": "The term 'ATF' used in airlines term is referred to as?"
     },
     {
         "qId": 19,
-        "value": "Full form of IATA is International Air Transport Association?"
+        "value": "Rajiv Gandhi National Aviation University, an autonomous central university, is situated in which city of Uttar Pradesh?"
     },
     {
         "qId": 20,
-        "value": "The area of an airport where aircrafts are parked, unloaded or loaded, refueled, or boarded is called –"
+        "value": "Who is the Current Civil Aviation Minister of the Government of India?"
     },
     {
         "qId": 21,
-        "value": "Qantas is the which country’s airline?"
+        "value": "What is the colour of 'Black Box' in the Aeroplane?"
     },
     {
         "qId": 22,
-        "value": "NOTAMs are issued mostly to inform pilots of changes to airports, airways and local procedures that affect the safety of flight. What is full form of NOTAM:"
+        "value": "AVSAR Scheme of the Airports Authority of India is for the benefit of ?"
     },
     {
         "qId": 23,
-        "value": "Which Airport in India is also known as Chaudhary Charan Singh International Airport?"
+        "value": "GAGAN, a Satellite Based Augmentation System, is jointly developed by AAI and _________?"
+    },
+    {
+        "qId": 24,
+        "value": "First airport/aerodrome, which was developed in U.P. (in 1931) and laid the foundation for Air Traffic Control Services India."
+    },
+    {
+        "qId":25,
+        "value": "What is the full form of ACI in Aviation?"
+    },
+    {
+        "qId":26,
+        "value": "Which airport is named after the 2nd Prime Minister of India Lal Bahadur Shastri in October, 2005?"
+    },
+    {
+        "qId":27,
+        "value": "Which Airport in India is also called 'Swami Vivekanand Airport'?"
+    },
+    {
+        "qId":28,
+        "value": "Which City of Uttar Pradesh is headquarters of Central Air Command, one of the bases of Indian Armed Forces."
+    },
+    {
+        "qId":29,
+        "value": "Which airport in Uttar Pradesh is developed with a view to increase international tourism from Buddhist pilgrims around the world?"
+    },
+    {
+        "qId":30,
+        "value": "KLM is which country's official airline"
     }
 ]
