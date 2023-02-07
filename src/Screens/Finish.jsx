@@ -42,7 +42,7 @@ const Finish = (props) => {
         >
           <div className="shape-outer hexagon" onClick={() => navigate("/")}>
             <div className="shape-inner hexagon d-flex align-items-center justify-content-center">
-              <p className="text-white text-center py-auto my-2 fw-bold ">
+              <p className="text-white text-center py-auto my-2 fw-bold home-text">
                 Home
               </p>
             </div>

@@ -189,3 +189,6 @@
   transform: translateX(-50%);
   top: 17vh;
 } 
+.home-text{
+  font-size: 2vw;
+}
